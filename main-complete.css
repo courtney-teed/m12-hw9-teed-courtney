@@ -17,15 +17,15 @@ nav ul li {
 }
 header {
 	text-align: center;
-  margin: 5%;
+	margin: 5%;
 }
 main {
 	height: 2000px;
 }
 .sticky-nav {
 	position: fixed;
-  width: 100%;
-  top: 0;
+	width: 100%;
+	top: 0;
 }
 .red {
 	background-color: red;
