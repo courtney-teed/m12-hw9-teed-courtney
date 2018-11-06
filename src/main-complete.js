@@ -13,5 +13,5 @@ function wrapper() {
 };
 
 for(let i = 0; i < navButtons.length; i++) {
-
+	navButtons[i].addEventListener('click', wrapper);
 };
